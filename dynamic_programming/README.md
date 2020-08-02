@@ -12,3 +12,8 @@ Ex: Fibonacci sequence
 Optimal Substructure:
 A problem is said to have optimal substructure if an optimal solution can be constructed from optimal solutions of its subproblems.
 Ex: Fibonacci sequence, Shortest Path
+
+Memoization:
+Storing the results of expensive function calls and returning the cached result when the same inputs occur again.
+
+
