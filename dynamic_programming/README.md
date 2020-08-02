@@ -1,7 +1,7 @@
 <b>Dynamic Programming in Javascript<b>
 
 what is Dynamic Programming?
-"A method for solving a complex problem by breaking it down into a collection of simpler sub problems, solving wach of those sub problems just once, and storing their solutions.
+"A method for solving a complex problem by breaking it down into a collection of simpler sub problems, solving each of those sub problems just once, and storing their solutions.
 
 It works on problems with Optimal Substructure and Overlapping Subproblems.
 
@@ -19,7 +19,7 @@ Storing the results of expensive function calls and returning the cached result 
 Tabulation:
 Storing the result of a previous result in a "table"(usually an array).
 Usually done using iteration.
-better space complexity can b achieved using tabulation.
+better space complexity can be achieved using tabulation.
 
 
 
