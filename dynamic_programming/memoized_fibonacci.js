@@ -1,4 +1,4 @@
-# Fibonnaci using memoization
+// Fibonnaci using memoization
 
 function fib(n, memo=[]){
     if(memo[n] !== undefined) return memo[n]
@@ -8,4 +8,4 @@ function fib(n, memo=[]){
     return res
 }
 
-#time complexity = O(n)
+// time complexity = O(n)
